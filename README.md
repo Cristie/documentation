@@ -1,2 +1,2 @@
-# GitHub Guides Tutorials
+# documentation
 GitHub Guides Tutorials
